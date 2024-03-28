@@ -1,0 +1,105 @@
+[
+  {
+    "number": "6543",
+    "name": "chicken soup",
+    "type": "Soup",
+    "texture": "liquid",
+    "meal": [
+      {
+        "menu_id": 7,
+        "time": "lunch",
+        "cutlery": "spoon"
+      }
+    ]
+  },
+  {
+    "number": "5832",
+    "name": "steak",
+    "type": "Meat",
+    "texture": "solid",
+    "meal": [
+      {
+        "menu_id": 32,
+        "time": "lunch",
+        "cutlery": "fork"
+      },
+      {
+        "menu_id": 4,
+        "time": "dinner",
+        "cutlery": "knife"
+      }
+    ]
+  },
+  {
+    "number": "8421",
+    "name": "brownie",
+    "type": "Cake",
+    "texture": "solid",
+    "meal": [
+      {
+        "menu_id": 45,
+        "time": "breakfast",
+        "cutlery": "fork"
+      },
+      {
+        "menu_id": 23,
+        "time": "lunch",
+        "cutlery": "fork"
+      },
+      {
+        "menu_id": 34,
+        "time": "dinner",
+        "cutlery": "fork"
+      }
+    ]
+  },
+  {
+    "number": "9123",
+    "name": "spaghetti",
+    "type": "Noodles",
+    "texture": "solid",
+    "meal": [
+      {
+        "menu_id": 2,
+        "time": "lunch",
+        "cutlery": "fork"
+      },
+      {
+        "menu_id": 4,
+        "time": "dinner",
+        "cutlery": "fork"
+      }
+    ]
+  },
+  {
+    "number": "7634",
+    "name": "gulasch",
+    "type": "Meat",
+    "texture": "solid",
+    "meal": [
+      {
+        "menu_id": 12,
+        "time": "dinner",
+        "cutlery": "fork"
+      }
+    ]
+  },
+  {
+    "number": "4539",
+    "name": "cheesecake",
+    "type": "Cake",
+    "texture": "solid",
+    "meal": [
+      {
+        "menu_id": 65,
+        "time": "breakfast",
+        "cutlery": "fork"
+      },
+      {
+        "menu_id": 37,
+        "time": "dinner",
+        "cutlery": "fork"
+      }
+       ]
+      }
+    ]
